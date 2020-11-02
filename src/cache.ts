@@ -1,4 +1,6 @@
 class Cache {
+  private _store = {};
+
   constructor() {}
 }
 
